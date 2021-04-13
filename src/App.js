@@ -7,8 +7,6 @@ return (
 <br/>
 <img src={image} />
 <br/>
-<img src="/imageInPublic.jpg" />
-<br/>
  <video  controls width="320" height="240" >
 <source src="myVideo.mp4" type="video/mp4" />
 </video>
